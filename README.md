@@ -1,5 +1,6 @@
 # CS-300
 Data Structures and Algorithms
+Carl LaLonde
 
 This work helped me to understand how different data structures can impact the performance and memory usage of a program.  I was able to write code that is functional, readable, adaptable and maintainable.  I was able to create a program that would read course data from a csv file and store this data in a Binary Search Tree.  The program also allowed users to search and display course information in alphanumeric order.  
 
